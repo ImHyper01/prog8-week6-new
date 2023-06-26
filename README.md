@@ -1,3 +1,3 @@
 # prog8-week6-new
 
-Prediction algoritme
+Predict dat je diabetes heb of niet
